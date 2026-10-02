@@ -240,13 +240,3 @@ Os testes não alteram o `dados_sistema.json`. A mesma bateria de testes está n
 | Outros custos (FV-PB09-T03) | Estrutura 8%, cabos 4%, proteções 5%, instalação R$ 500/kWp, projeto R$ 800 — premissas da equipe, mostradas separadas do custo de equipamentos |
 
 ---
-
-## 8. Pendências antes da entrega
-
-- Conferir no datasheet os itens marcados `CONFERIR_DATASHEET` e `CONFERIR_PRECO`, e guardar prints das páginas de preço.
-- Substituir links de busca do Mercado Livre (`lista.mercadolivre.com.br/...`) pelo link do anúncio exato.
-- Se possível, consultar o HSP direto no SunData com as coordenadas do imóvel e guardar o print.
-
----
-
-> **Aviso:** resultado acadêmico de pré-dimensionamento. Não substitui projeto elétrico executivo, ART, análise de sombreamento nem vistoria da distribuidora.
